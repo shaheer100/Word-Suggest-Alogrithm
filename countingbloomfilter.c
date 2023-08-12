@@ -1,18 +1,3 @@
-/////////////////////////////////////////////////////////////////////////////////////////
-// INTEGRITY STATEMENT (v4)
-//
-// By signing your name and ID below you are stating that you have agreed
-// to the online academic integrity statement posted on edX:
-// (Course > Assignments > Assignment Information & Policies > Academic Integrity Policy)
-/////////////////////////////////////////////////////////////////////////////////////////
-// I received help from and/or collaborated with:
-
-// no one.
-//
-// Name: shaheer sheeraz.
-// login ID: ssheeraz
-//////////////////////////////////////////////////////////////////////////////////////////
-
 // This is the implementation of the counting Bloom filter ADT.
 
 #include <assert.h>
